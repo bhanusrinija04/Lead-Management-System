@@ -1,73 +1,88 @@
+🚗 HSR Motors – Lead Management System
 
+A modern web-based Lead Management System designed to help automobile dealerships track, manage, and analyze customer leads efficiently with a clean dashboard and detailed lead listing.
 
-## Project info
+📌 Features
+📊 Dashboard
 
-**URL**: https://lovable.dev/projects/276ac29c-bd07-436f-a68a-8584e2e3f6fe
+Total Leads count
 
-## How can I edit this code?
+Conversion Rate tracking
 
-There are several ways of editing your application.
+Sales Revenue overview
 
-**Use Lovable**
+Active Leads monitoring
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/276ac29c-bd07-436f-a68a-8584e2e3f6fe) and start prompting.
+Lead Status Distribution (New, Contacted, Qualified, Not Interested, Sale Completed)
 
-Changes made via Lovable will be committed automatically to this repo.
+Top Performing Sales Agents
 
-**Use your preferred IDE**
+📋 Lead Listing
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Search leads by name, email, or vehicle
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Filter by status:
+New | Contacted | Qualified | Follow Up Required | Not Interested | Sale Completed
 
-Follow these steps:
+View customer details:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Contact info
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Vehicle interest
 
-# Step 3: Install the necessary dependencies.
-npm i
+Budget range
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Lead source
+
+Assigned sales agent
+
+Priority tagging (High Priority)
+
+Individual lead detail view
+
+🛠️ Tech Stack
+
+Frontend: React + Vite
+
+Styling: Tailwind CSS / Custom CSS
+
+Icons: Lucide / Hero Icons
+
+Backend (Optional): Node.js / Express
+
+Database (Optional): MongoDB / MySQL
+
+Deployment: Localhost / Cloud Hosting (AWS / Vercel)
+
+🚀 Getting Started
+git clone https://github.com/your-username/Lead-Management-System.git
+cd Lead-Management-System
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Open in browser:
+http://localhost:8081
 
-**Use GitHub Codespaces**
+📷 Screens
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Dashboard with analytics and performance cards
 
-## What technologies are used for this project?
+Lead Listing with search, filters, and detailed cards
 
-This project is built with:
+🎯 Use Case
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Perfect for:
 
-## How can I deploy this project?
+Car dealerships
 
-Simply open [Lovable](https://lovable.dev/projects/276ac29c-bd07-436f-a68a-8584e2e3f6fe) and click on Share -> Publish.
+Sales teams
 
-## Can I connect a custom domain to my Lovable project?
+CRM training projects
 
-Yes, you can!
+Internship / Hackathon demonstrations
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+👩‍💻 Author
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Bhanu Srinija
+AIML | Full Stack | AWS | React Developer
